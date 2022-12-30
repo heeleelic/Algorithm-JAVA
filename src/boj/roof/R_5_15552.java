@@ -12,6 +12,7 @@ public class R_5_15552 {
 
         int t = Integer.parseInt(br.readLine());
 
+
         for(int i=0;i<t;i++){
             StringTokenizer st = new StringTokenizer(br.readLine());
             int a = Integer.parseInt(st.nextToken());
